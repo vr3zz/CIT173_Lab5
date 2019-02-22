@@ -1,0 +1,18 @@
+2) Model name = model name	: Intel(R) Core(TM) i5-6287U CPU @ 3.10GHz
+2) cpu cores	: 1
+2) cache size	: 4096 KB
+3) MemTotal:        2016276 kB
+4) Max stack size            8388608              unlimited            bytes  
+5) cpu 15 min avg 0.06
+6) nonvoluntary_ctxt_switches:	1332
+7) 3067.20
+8) 0 svgadrmfb
+
+
+
+ps aux
+
+717
+1361
+3089
+2982
